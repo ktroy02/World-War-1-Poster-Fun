@@ -86,7 +86,7 @@ Despite its emotionally charged title, this American Red Cross poster scores exa
 
 ![Most Negative Poster](https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g11000/3g11700/3g11709v.jpg)
 
-This German poster, produced just after the war's end in 1919, shows a returning prisoner of war clutching his belongings and looking bewildered, with other returning prisoners visible in the background. The text announces information, advice, and help for returning POWs. The score of -0.9643 makes it the most negative poster in the dataset, textually speaking — a fitting reflection. Where other posters asked civilians to give money or enlist, this one confronts the aftermath: broken men returning to a broken country, in need of basic guidance just to navigate civilian life again.
+This German poster, produced just after the war's end in 1919, shows a returning prisoner of war clutching his belongings and looking bewildered, with other returning prisoners visible in the background. The text announces information, advice, and help for returning POWs. The score of -0.9643 makes it the most negative poster in the dataset, textually speaking, a fitting reflection. Where other posters asked civilians to give money or enlist, this one confronts the aftermath: broken men returning to a broken country, in need of basic guidance just to navigate civilian life again.
 
 🔗 [View on Library of Congress](https://www.loc.gov/item/2004665987)
 
