@@ -1,6 +1,6 @@
 # WW1 Poster Fun
 
-.ve-image https://tile.loc.gov/storage-services/service/pnp/ppmsca/51200/51295r.jpg
+.ve-image url=https://tile.loc.gov/storage-services/service/pnp/ppmsca/51200/51295r.jpg
 
 ### The war ended. The data didn't.
 
@@ -13,7 +13,7 @@ World War One is remembered as one of the most violent wars in modern history, t
 This project utilizes methods from the field of Digital Humanities to analyze a collection of over 1,400 WW1 posters pulled from the Library of Congress digital archive. Instead of focusing solely on the visual data, using computational sentiment analysis allows us to measure the emotional undertone embedded within the poster’s summaries. Moving beyond a traditional close reading approach allows us to ask broader questions: how does sentiment vary across the posters from different nations? How does the content and purpose of these posters change from culture to culture, if it does at all?
 By combining natural language processing with archival research, this project bridges the gap between traditional humanities scholarship and computational methods. Resulting in an  interactive, data driven visual essay that invites readers to explore the emotional landscape of WWI propaganda in a modern way. 
 
-.ve-image https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g07000/3g07700/3g07782r.jpg
+.ve-image url=https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g07000/3g07700/3g07782r.jpg
 
 ## Methods
 
@@ -50,7 +50,7 @@ The table below is color-coded according to the sentiment score of the individua
 
 The descriptive statistics below for the 1,470 WWI poster summaries reveal a dataset with high variability in emotional tone. The mean sentiment score of -0.0431 places the collection just slightly in negative territory, suggesting that on average, the posters leaned toward depressing or somber messaging, however slight it may be. The median score of 0.0000 indicates that exactly half of the posters fell on either side of neutral, meaning the negative pull comes largely from a smaller group of highly negative outliers rather than a broad negative trend. The standard deviation of 0.3775 and wide range of 1.9075 confirm that poster sentiment wasn’t organized in terms of emotion, spanning from deeply negative depictions of suffering and enemy threat to strongly positive calls for patriotism and victory. This spread reflects the diverse propaganda strategies employed cross-culturally during the war. The table below is color-coded according to the sentiment score of the individual poster. Red: Negative, Yellow: Neutral, Green: Positive
 
-.ve-iframe https://ktroy02.github.io/World-War-1-Poster-Fun/sentiment_stats_bar.html height=500
+.ve-iframe https://ktroy02.github.io/World-War-1-Poster-Fun/sentiment_stats_bar.html
 
 ## Poster Score Examples
 
@@ -60,7 +60,7 @@ The following three posters represent the emotional extremes and the midpoint of
 **Per la libertà e la civiltà del mondo**
 *Italy · [1917] · LCCN: 2004666223*
 
-.ve-image https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g12000/3g12200/3g12256v.jpg
+.ve-image url=https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g12000/3g12200/3g12256v.jpg
 
 Translated as "For the liberty and civilization of the world," this Italian poster earns the 
 highest sentiment score in the dataset at 0.9432. The image  depicts soldiers from Italy, Great Britain, France, and the United States 
@@ -79,7 +79,7 @@ across nations. It is a rare example of unambiguously optimistic WWI propaganda.
 **Motherless, fatherless, starving--How much to save these little lives?**
 *United States · [1918] · LCCN: 2002722700*
 
-.ve-image https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g09000/3g09800/3g09861v.jpg
+.ve-image url=https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g07000/3g07900/3g07990r.jpg
 
 Despite its emotionally charged title, this American Red Cross poster scores exactly 0.0000, which is perfectly neutral by VADER's measure. This is a good example of how VADER analyzes language literally: words like "motherless," "fatherless," and "starving" carry negative connotations in everyday speech, but VADER may balance these against the implied positive appeal to charity and saving lives. The score of zero does not mean the poster is emotionally empty; instead, it reflects the tension between the careful neutrality needed in order to be approved for political use, and the human cost war takes. This poster reminds us that sentiment analysis has limits when applied to persuasive historical texts where emotional complexity is the point.
 
@@ -91,7 +91,7 @@ Despite its emotionally charged title, this American Red Cross poster scores exa
 **Kriegsgefangenenheimkehr. Auskunft! Rat! Hilfe!**
 *Germany · [1919] · LCCN: 2004665987*
 
-.ve-image https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g09000/3g09800/3g09861v.jpg
+.ve-image url=https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g11000/3g11700/3g11709v.jpg
 
 This German poster, produced just after the war's end in 1919, shows a returning prisoner 
 of war clutching his belongings and looking bewildered, with other returning prisoners 
