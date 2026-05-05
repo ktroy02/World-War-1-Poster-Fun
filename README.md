@@ -117,7 +117,11 @@ Digital humanities projects like this one argue that data and interpretation are
 
 SOURCES
 
+I acknowledge the use of Anthropic's AI model Claude to write the lines of code used for this project. The AI was used to build code to scrape poster metadata and to refine the sentiment scores that was then turned into visual data. Claude was also used to help organize and troubleshoot this visual essay through GitHub and Juncture. 
 
+“Posters: World War I Posters - about This Collection - Prints & Photographs Online Catalog (Library of Congress).” Loc.gov, 2019, www.loc.gov/pictures/collection/wwipos/.
+
+‌A huge thank you to Dr. Jorgensen for going above and beyond to help me with this project! Your guidance does not go unappreciated.Thank you for all that you've done to help me with this :)
 
 *WW1 Poster Fun · Sentiment Analysis Archive · The war ended. The data didn't.*
 
