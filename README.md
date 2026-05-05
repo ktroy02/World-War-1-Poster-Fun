@@ -30,7 +30,7 @@ VADER was chosen for this project because it is well-suited to short descriptive
 
 Results were visualized using Plotly, an interactive Python graphing tool. The final scatter plot displays all 1,470 posters sorted from most negative to most positive sentiment, with each point color-coded on a red-yellow-green scale. Hovering over any point reveals the poster's title, LCCN (ID), date, sentiment score, and a brief summary explaining the message of the poster.
 
-.ve-iframe https://raw.githubusercontent.com/ktroy02/World-War-1-Poster-Fun/main/sentiment_graph.html
+.ve-iframe https://ktroy02.github.io/World-War-1-Poster-Fun/sentiment_graph.html
 
 ---
 
