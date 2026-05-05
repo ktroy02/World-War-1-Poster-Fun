@@ -102,3 +102,19 @@ guidance just to navigate civilian life again.
 🔗 [View on Library of Congress](https://www.loc.gov/item/2004665987)
 
 ---
+
+## Conclusion
+
+This project set out to ask how emotions were marketed during a period of war and arrived at a nuanced answer. The data suggests that the dominant tone of this poster collection is slightly negative, driven by the weight of themes such as sacrifice, suffering, disability, and obligation that pervade the visual culture of the early 20th century. The range is enormous: from jubilant celebrations of allied unity to quiet portraits of the vulnerable that were left behind, the posters in this dataset tell a far more complex emotional story than any single narrative of heroism or tragedy could capture.
+
+Sentiment analysis is not a perfect tool for reading propaganda. VADER was designed for 
+modern English text and performs less reliably on translated summaries, archival 
+descriptions, and images themselves. The scores reflect the language of the poster descriptions, not the posters themselves, a limitation worth acknowledging given the intensely visual nature of this archive. Nevertheless, as a method for exploring large collections of cultural artifacts, sentiment analysis opens up patterns that would be invisible to a single reader working through the archive manually. There are some things where close reading does not make sense, and technology can work to fill in the gaps on our behalf. 
+
+Digital humanities projects like this one argue that data and interpretation are not opposites. 
+Numbers do not replace close reading, they work in tandem to give us a more comprehensive and fulfilling picture of the past. The most negative poster in this dataset is not just a data point. It reflects a very real, unheard voice in history, of people that came home to find their lives completely upended by the chaos and cruelty of war. That is, if one could come back home at all, or find an untimely death in the muddy trenches of central Europe. The data has revealed their stories, giving us an unflinching glimpse of a world at war. the edge of a war that has already ended, clutching his belongings, looking for help. The data pointed us in the right direction, and the rest is history.
+
+---
+
+*WW1 Poster Fun · Sentiment Analysis Archive · The war ended. The data didn't.*
+
