@@ -36,7 +36,7 @@ Results were visualized using Plotly, an interactive Python graphing tool. The f
 
 ## Findings
 
-The overall average sentiment score across all 1,470 posters was **-0.0516**, placing the dataset is just barely in the negative territory by VADER's standard thresholds. This finding, while not consisting of all posters on the LOC website, is still meaningful in context: the dominant emotional tone of WWI propaganda, as captured in archival summaries, skews slightly negative.
+The overall average sentiment score across all 1,470 posters was **-0.0431**, placing the dataset is just barely in the negative territory by VADER's standard thresholds. This finding, while not consisting of all posters on the LOC website, is still meaningful in context: the dominant emotional tone of WWI propaganda, as captured in archival summaries, skews slightly negative.
 
 This result may seem counterintuitive because propaganda is often associated with stimulating, optimistic messaging designed to inspire action. A closer look at the data reveals that a large portion of the posters in this collection deal with themes of sacrifice, loss, injury, disability, and financial obligation. War bond posters frequently invoke the suffering of soldiers to motivate civilians to contribute financially while not actively fighting. Recruitment posters appeal to the emotions of guilt and duty rather than excitement. Posters that have candid depictions of the war frequently include injured or disabled soldiers, skewing the dataset towards a more somber sentiment overall. 
 
