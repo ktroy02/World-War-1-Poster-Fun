@@ -42,4 +42,6 @@ This result may seem counterintuitive because propaganda is often associated wit
 
 The distribution of scores is wide, ranging from **-0.9643** (most negative) to **+0.9432** (most positive), suggesting that while the average is slightly negative, individual posters vary enormously in their emotional register. Some posters are strikingly hopeful, celebrating allied unity and the promise of peace. Others are deeply mournful, depicting the human cost of war with unflinching directness.
 
+The table below is color-coded according to the sentiment score of the individual poster. Red: Negative, Yellow: Neutral, Green: Positive
+
 .ve-iframe https://ktroy02.github.io/World-War-1-Poster-Fun/sentiment_table.html
