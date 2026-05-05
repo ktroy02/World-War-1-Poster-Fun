@@ -60,7 +60,7 @@ The following three posters represent the emotional extremes and the midpoint of
 **Per la libertà e la civiltà del mondo**
 *Italy · [1917] · LCCN: 2004666223*
 
-![Most Positive Poster](https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g12000/3g12200/3g12256v.jpg)
+.ve-image https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g12000/3g12200/3g12256v.jpg
 
 Translated as "For the liberty and civilization of the world," this Italian poster earns the 
 highest sentiment score in the dataset at 0.9432. The image  depicts soldiers from Italy, Great Britain, France, and the United States 
@@ -91,7 +91,7 @@ Despite its emotionally charged title, this American Red Cross poster scores exa
 **Kriegsgefangenenheimkehr. Auskunft! Rat! Hilfe!**
 *Germany · [1919] · LCCN: 2004665987*
 
-![Most Negative Poster](https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g11000/3g11700/3g11709v.jpg)
+.ve-image https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g09000/3g09800/3g09861v.jpg
 
 This German poster, produced just after the war's end in 1919, shows a returning prisoner 
 of war clutching his belongings and looking bewildered, with other returning prisoners 
