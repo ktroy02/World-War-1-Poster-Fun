@@ -1,6 +1,6 @@
 # WW1 Poster Fun
 
-.ve-image https://cdn.loc.gov/service/pnp/ppmsca/51200/51295r.jpg
+.ve-image https://tile.loc.gov/storage-services/service/pnp/ppmsca/51200/51295r.jpg
 
 ### The war ended. The data didn't.
 
@@ -13,7 +13,7 @@ World War One is remembered as one of the most violent wars in modern history, t
 This project utilizes methods from the field of Digital Humanities to analyze a collection of over 1,400 WW1 posters pulled from the Library of Congress digital archive. Instead of focusing solely on the visual data, using computational sentiment analysis allows us to measure the emotional undertone embedded within the poster’s summaries. Moving beyond a traditional close reading approach allows us to ask broader questions: how does sentiment vary across the posters from different nations? How does the content and purpose of these posters change from culture to culture, if it does at all?
 By combining natural language processing with archival research, this project bridges the gap between traditional humanities scholarship and computational methods. Resulting in an  interactive, data driven visual essay that invites readers to explore the emotional landscape of WWI propaganda in a modern way. 
 
-.ve-image https://cdn.loc.gov/service/pnp/cph/3g00000/3g07000/3g07700/3g07782r.jpg 
+.ve-image https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g07000/3g07700/3g07782r.jpg
 
 ## Methods
 
