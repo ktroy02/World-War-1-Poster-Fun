@@ -79,7 +79,7 @@ across nations. It is a rare example of unambiguously optimistic WWI propaganda.
 **Motherless, fatherless, starving--How much to save these little lives?**
 *United States · [1918] · LCCN: 2002722700*
 
-![Neutral Poster](https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g09000/3g09800/3g09861v.jpg)
+.ve-image https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g09000/3g09800/3g09861v.jpg
 
 Despite its emotionally charged title, this American Red Cross poster scores exactly 0.0000, which is perfectly neutral by VADER's measure. This is a good example of how VADER analyzes language literally: words like "motherless," "fatherless," and "starving" carry negative connotations in everyday speech, but VADER may balance these against the implied positive appeal to charity and saving lives. The score of zero does not mean the poster is emotionally empty; instead, it reflects the tension between the careful neutrality needed in order to be approved for political use, and the human cost war takes. This poster reminds us that sentiment analysis has limits when applied to persuasive historical texts where emotional complexity is the point.
 
