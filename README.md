@@ -1,4 +1,5 @@
 # WW1 Poster Fun
+.ve-image https://cdn.loc.gov/service/pnp/ppmsca/51200/51295r.jpg
 ### The war ended. The data didn't.
 
 ---
